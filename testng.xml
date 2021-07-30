@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite name">
+<listeners>
+<listener class-name="com.ignitesol.reusablecomponents.ListnerImplementation"></listener>
+</listeners>
+<test name="test name">
+<classes>
+<class name="testcases.TC_GutenbergProject"></class>
+</classes>
+</test>
+
+</suite>
